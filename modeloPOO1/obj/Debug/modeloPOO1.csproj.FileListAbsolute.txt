@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2015\Projects\modeloPOO1\modeloPOO1\bin\Debug\modeloPOO1.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\modeloPOO1\modeloPOO1\bin\Debug\modeloPOO1.exe
+c:\users\usuario\documents\visual studio 2015\Projects\modeloPOO1\modeloPOO1\bin\Debug\modeloPOO1.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\modeloPOO1\modeloPOO1\obj\Debug\modeloPOO1.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\modeloPOO1\modeloPOO1\obj\Debug\modeloPOO1.frmPersonal.resources
+c:\users\usuario\documents\visual studio 2015\Projects\modeloPOO1\modeloPOO1\obj\Debug\modeloPOO1.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\modeloPOO1\modeloPOO1\obj\Debug\modeloPOO1.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\modeloPOO1\modeloPOO1\obj\Debug\modeloPOO1.exe
+c:\users\usuario\documents\visual studio 2015\Projects\modeloPOO1\modeloPOO1\obj\Debug\modeloPOO1.pdb

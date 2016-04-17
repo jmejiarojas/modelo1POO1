@@ -1,0 +1,9 @@
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\modeloPOO1\certamenBelleza\bin\Debug\certamenBelleza.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\modeloPOO1\certamenBelleza\bin\Debug\certamenBelleza.exe
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\modeloPOO1\certamenBelleza\bin\Debug\certamenBelleza.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\modeloPOO1\certamenBelleza\obj\Debug\certamenBelleza.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\modeloPOO1\certamenBelleza\obj\Debug\certamenBelleza.frmCertamen.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\modeloPOO1\certamenBelleza\obj\Debug\certamenBelleza.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\modeloPOO1\certamenBelleza\obj\Debug\certamenBelleza.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\modeloPOO1\certamenBelleza\obj\Debug\certamenBelleza.exe
+C:\Users\USUARIO\Documents\Visual Studio 2015\Projects\modeloPOO1\certamenBelleza\obj\Debug\certamenBelleza.pdb
